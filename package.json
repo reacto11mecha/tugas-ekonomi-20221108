@@ -1,0 +1,11 @@
+{
+  "name": "tugas-ekonomi-20221108",
+  "version": "1.0.0",
+  "description": "Tugas ekonomi tanggal 11 agustus 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezra Khairan Permana",
+  "license": "MIT"
+}
