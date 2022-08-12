@@ -4,7 +4,7 @@
   "description": "Tugas ekonomi tanggal 11 agustus 2022",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Ezra Khairan Permana",
   "license": "MIT"
